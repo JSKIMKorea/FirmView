@@ -1,0 +1,13 @@
+{
+  "_comment": "PRJTNM에서 제외할 키워드 목록입니다. 추가하고 싶은 단어를 keywords 배열에 넣고 스크립트를 다시 실행하세요.",
+  "keywords": [
+    "HR",
+    "연차",
+    "L&E",
+    "Learning & Education",
+    "교육훈련",
+    "Refresh Off",
+    "Administration",
+    "PD Hour"
+  ]
+}

@@ -1,0 +1,38 @@
+# ── 인증/보안 정보 ── (절대 커밋 금지)
+credentials.json
+2.사용자관리/users.xlsx
+
+# ── 캐시·빌드 결과물 ──
+3.포털빌드/cache/
+3.포털빌드/output/
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# ── IDE/OS ──
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# ── Claude Code 로컬 설정 ──
+.claude/settings.local.json
+.claude/settings.json
+
+# ── 임시/로그 ──
+*.tmp
+*.log
+*.bak
+
+# ── Node (혹시 모를) ──
+node_modules/
+package-lock.json
+
+# ── Legacy ──
+_legacy_fastapi/
